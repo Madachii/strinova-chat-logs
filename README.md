@@ -1,0 +1,1 @@
+A simple tool to extract the chat logs from %LOCALAPPDATA%\Strinova\Saved\Chat and %LOCALAPPDATA%\Strinova\Saved\ClanChat made in python
